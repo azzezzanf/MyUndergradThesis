@@ -1,5 +1,6 @@
 # MyUndergradThesis
-This is my Undergraduate Thesis Code and File, its pretty messy, but i need to documentate it xD
+This is my Undergraduate Thesis codes and files, its pretty messy, but i need to repo it for documentation xD
+
 University : Sepuluh Nopember Institute of Technology
 
 Undergraduate thesis title :
